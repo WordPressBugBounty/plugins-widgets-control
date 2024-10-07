@@ -1,0 +1,9 @@
+.menu-icon-wctrl_content .wp-menu-image.dashicons-before {
+	background: url(../images/wctrl_gear.png) transparent no-repeat center center;
+	background-size: 64%;
+}
+.wctrl-insert-content span.wctrl-icon {
+	background: url(../images/wctrl_gear.png) transparent no-repeat left center;
+	background-size: 100%;
+	padding: 0 0 0 1.3em;
+}

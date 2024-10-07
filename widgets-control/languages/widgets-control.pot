@@ -1,0 +1,370 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2017-07-29 12:31+0200\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:83
+msgid   "Access denied."
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:146
+msgid   "Add Content Block"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:73
+msgctxt "block"
+msgid   "Add Content Block"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:74
+msgid   "Add New Content Block"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:72
+msgid   "All Content Blocks"
+msgstr  ""
+
+#: lib/class-widgets-control-sidebars.php:391
+#: lib/class-widgets-control-sidebars.php:393
+msgid   "Apply"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:127
+msgid   "Automatic Cache Clearing"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:131
+msgid   "Automatically clear the cache when widgets are updated?"
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:179
+#: lib/class-widgets-control-content-widget.php:212
+msgid   "Choose the content to display"
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:143
+msgid   "Click to choose and insert an existing content block."
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:162
+msgctxt "Meta box title"
+msgid   "Codes"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:175
+#: lib/class-widgets-control-sidebars.php:365
+msgid   "Conditions"
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:178
+#: lib/class-widgets-control-content-widget.php:84
+#: lib/class-widgets-control-content-widget.php:211
+msgid   "Content Block"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:70
+msgctxt "Widgets Control Content Post Type Singular Name"
+msgid   "Content Block"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:43
+msgid   "Content Blocks"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:69
+msgctxt "Widgets Control Content Post Type"
+msgid   "Content Blocks"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:71
+msgctxt "Widgets Control Content Post Type Plural Name"
+msgid   "Content Blocks"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:120
+msgid   "Content Blocks are used to create content with the WYSIWYG editor "
+        "and display it using a shortcode or widget anywhere on posts, pages "
+        "and other custom post types and in sidebars."
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-notice.php:111
+msgid   "Could you please spare a minute and give it a review over at "
+        "WordPress.org?"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:75
+msgid   "Edit"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:76
+msgid   "Edit Content Block"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:108
+msgid   "Enable Content Features"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:113
+#, php-format
+msgid   "Enable the plugin's built-in <a href=\"%s\">Content Blocks</a> and "
+        "features related to it?"
+msgstr  ""
+
+#: lib/class-widgets-control-content-widget.php:268
+msgid   "Filter the content"
+msgstr  ""
+
+#: lib/class-widgets-control-content-widget.php:259
+msgid   "Filter the title"
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:77
+#: lib/admin/class-widgets-control-admin-content.php:226
+#: lib/admin/class-widgets-plugin-admin-settings.php:150
+#: lib/admin/class-widgets-plugin-admin.php:200
+#: lib/class-widgets-control-sidebars.php:400
+msgid   "Get <a href=\"http://www.itthinx.com/shop/widgets-control-pro/"
+        "\"><strong>Widgets Control Pro</strong></a> which supports flexible "
+        "custom sidebars and conditions based on page hierarchies, post "
+        "types, roles and <a href=\"http://wordpress.org/plugins/groups/"
+        "\">groups</a>."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:40
+msgid   "Get Pro"
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-notice.php:123
+msgid   "I've already rated it."
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:221
+msgid   "Insert"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:138
+msgid   "It is recommended while you set up your widgets or when you work on "
+        "changes."
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-notice.php:109
+msgid   "Many thanks for using <strong>Widgets Control</strong>!"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:77
+msgid   "New Content Block"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:78
+msgid   "No Content Block Found"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:79
+msgid   "No Content Block found in Trash"
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:184
+#: lib/class-widgets-control-content-widget.php:221
+msgid   "None"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:140
+msgid   "Note that you can also clear the cache manually even with this "
+        "option disabled and we recommend to disable it once you have "
+        "finished setting up your widgets."
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:214
+msgid   "PHP"
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:167
+msgid   "Please choose a content block."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:196
+#: lib/class-widgets-control-sidebars.php:386
+msgid   "Please refer to the <a href=\"http://docs.itthinx.com/document/"
+        "widgets-control/\">Documentation</a> for details."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:184
+#: lib/class-widgets-control-sidebars.php:374
+msgid   "Put each item on a line by itself."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:144
+msgid   "Save"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:80
+msgid   "Search Content Blocks"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:41
+msgid   "Settings"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:188
+msgid   "Shortcode"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:166
+#: lib/class-widgets-control-sidebars.php:356
+msgid   "Show on all except these pages"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:154
+#: lib/class-widgets-control-sidebars.php:344
+msgid   "Show on all pages"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:160
+#: lib/class-widgets-control-sidebars.php:350
+msgid   "Show only on these pages"
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:213
+#: lib/class-widgets-control-content-widget.php:250
+msgid   "Show the Content Block's featured image"
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:204
+#: lib/class-widgets-control-content-widget.php:241
+msgid   "Show the Content Block's title"
+msgstr  ""
+
+#: lib/class-widgets-control-sidebars.php:316
+msgid   "Sidebar Visibility"
+msgstr  ""
+
+#: lib/class-widgets-control-content-widget.php:277
+msgid   "Suppress filters"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:118
+msgid   "The plugin provides its own post type which is used to create "
+        "versatile blocks of content."
+msgstr  ""
+
+#: lib/class-widgets-control-content-widget.php:194
+msgid   "The widget title."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:188
+#: lib/class-widgets-control-sidebars.php:378
+msgid   "These tokens can be used:"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:136
+msgid   "This option is only provided as a convenience while you set up your "
+        "site."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:134
+msgid   "This works with W3 Total Cache, WP Super Cache and WP Engine."
+msgstr  ""
+
+#: lib/class-widgets-control-content-widget.php:195
+msgid   "Title"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:191
+msgid   "To display the block in content, embed this shortcode anywhere on a "
+        "page:"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:217
+msgid   "To display the content block in a PHP template, use this code:"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:186
+#: lib/class-widgets-control-sidebars.php:376
+msgid   "To include or exclude pages, use page ids, titles or slugs."
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:199
+msgid   "To include the title or the featured image, use the shortcode with "
+        "these additional attributes:"
+msgstr  ""
+
+#: lib/class-widgets-control-content-widget.php:85
+msgid   "Used to display Content Blocks with Widgets Control."
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:81
+msgid   "View"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:82
+msgid   "View Content Block"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:138
+msgid   "Visibility"
+msgstr  ""
+
+#: lib/class-widgets-control-content-widget.php:266
+msgid   "Whether to apply the the_content filter."
+msgstr  ""
+
+#: lib/class-widgets-control-content-widget.php:257
+msgid   "Whether to apply the the_title filter."
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:211
+#: lib/class-widgets-control-content-widget.php:248
+msgid   "Whether to show the featured image of the Content Block."
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-content.php:202
+#: lib/class-widgets-control-content-widget.php:239
+msgid   "Whether to show the title of the Content Block."
+msgstr  ""
+
+#: lib/class-widgets-control-content-widget.php:275
+msgid   "Whether to suppress filters when obtaining the content."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:52
+#: lib/admin/class-widgets-plugin-admin-settings.php:53
+msgid   "Widgets Control"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:97
+msgid   "Widgets Control Settings"
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-notice.php:117
+msgid   "Yes, let's go!"
+msgstr  ""
+
+#: lib/admin/class-widgets-control-admin-notice.php:128
+#, php-format
+msgid   "You can also follow <a href=\"%s\">@itthinx</a> on Twitter or visit "
+        "<a href=\"%s\" target=\"_blank\">itthinx.com</a> to check out other "
+        "free and premium plugins we provide."
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:206
+msgid   "You can also use this button to insert the shortcode for any content "
+        "block:"
+msgstr  ""
+
+#: lib/class-widgets-control-content.php:210
+msgid   "You will find it conveniently placed above the editor when you edit "
+        "your pages."
+msgstr  ""
